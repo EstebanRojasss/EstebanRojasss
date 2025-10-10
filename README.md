@@ -74,7 +74,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
   src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"
-  width="60px"
+  width="90px"
   alt="Hibernate">
    &nbsp;&nbsp;&nbsp;&nbsp;
    
