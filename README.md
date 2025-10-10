@@ -20,12 +20,21 @@
   
 ## Tech Stack
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/java.svg#color=ffffff" alt="Java"></a>
-<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/springboot.svg#color=6DB33F" alt="Spring Boot"></a>
-<a margin="10" href="https://hibernate.org/orm/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/hibernate.svg#color=59666C" alt="Hibernate"></a>
-<a margin="10" href="https://dev.mysql.com/doc/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg#color=4479A1" alt="SQL"></a>
-<a margin="10" href="https://www.debian.org/doc/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/debian.svg#color=A81D33" alt="Debian"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/c.svg#color=A8B9CC" alt="C"></a>
-<a margin="10" href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postman.svg#color=EF5B25" alt="Postman"></a>
-<a margin="10" href="https://maven.apache.org/guides/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/apachemaven.svg#color=C71A36" alt="Maven"></a>
+
+<a margin="10" href="https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"></a>
+
+<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"></a>
+
+<a margin="10" href="https://hibernate.org/orm/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"></a>
+
+<a margin="10" href="https://dev.mysql.com/doc/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"></a>
+
+<a margin="10" href="https://www.debian.org/doc/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian"></a>
+
+<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"></a>
+
+<a margin="10" href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"></a>
+
+<a margin="10" href="https://maven.apache.org/guides/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven"></a>
