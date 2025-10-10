@@ -1,8 +1,5 @@
 <div align="center">
 <h2> Hi, Welcome to my Github profile <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://www.linkedin.com/in/esteban-rojas-ch/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <br />
 <br />
   I'm a dedicated Backend Developer with a strong grasp of Java and experience in building server-side applications. I’ve worked on projects using Java, Spring Boot, Hibernate, and MySQL to create efficient and scalable solutions.
@@ -38,3 +35,13 @@
 <a margin="10" href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"></a>
 
 <a margin="10" href="https://maven.apache.org/guides/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven"></a>
+
+
+### 🔗 &nbsp;Contact Me
+
+<div align="center">
+<a href="mailto:estebanrojasch.2@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/esteban-rojas-ch/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+</div>
+
