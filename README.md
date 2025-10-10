@@ -15,27 +15,55 @@
 <br />
 <br />
   
-## Tech Stack
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-
-<a margin="10" href="https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"></a>
-
-<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"></a>
-
-<a margin="10" href="https://hibernate.org/orm/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"></a>
-
-<a margin="10" href="https://dev.mysql.com/doc/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"></a>
-
-<a margin="10" href="https://www.debian.org/doc/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian"></a>
-
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"></a>
-
-<a margin="10" href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"></a>
-
-<a margin="10" href="https://maven.apache.org/guides/" target="_blank"><img margin="10px" height="40" src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" alt="Maven"></a>
-
+</br>
+  <h3>Stack</h3>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    width="60px"
+    alt="Java">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
+    width="60px"
+    alt="HTML5">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+    width="60px"
+    alt="Spring (Spring-boot)">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://logodix.com/logo/699172.png"
+    width="60px"
+    alt="Maven">
+    &nbsp;&nbsp;&nbsp;
+     <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    width="60px"
+    alt="PostgreSQL">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    width="60px"
+    alt="Docker">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg"
+    width="60px"
+    alt="Trello">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
+    width="60px"
+    alt="IntelliJ">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    </br>
+    </br>
 
 ### 🔗 &nbsp;Contact Me
 
