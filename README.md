@@ -16,17 +16,16 @@
 <br />
 <br />
 <br />
-<!--
-**EstebanRojasss/EstebanRojasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+  
+## Tech Stack
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
+<a margin="10" href="https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/java.svg" alt="Java"></a>
+<a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/springboot.svg" alt="Spring Boot"></a>
+<a margin="10" href="https://hibernate.org/orm/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/hibernate.svg" alt="Hibernate"></a>
+<a margin="10" href="https://dev.mysql.com/doc/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/mysql.svg" alt="SQL"></a>
+<a margin="10" href="https://www.debian.org/doc/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/debian.svg" alt="Debian"></a>
+<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/c.svg" alt="C"></a>
+<a margin="10" href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/postman.svg" alt="Postman"></a>
+<a margin="10" href="https://maven.apache.org/guides/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/apachemaven.svg" alt="Maven"></a>
