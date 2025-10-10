@@ -64,13 +64,15 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 <img 
   src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-  witdh="60px"
+  width="60px"
   alt="Postman">
 &nbsp;&nbsp;&nbsp;&nbsp;
-    
-    </br>
-    </br>
-
+<img
+  src="https://www.debian.org/logos/openlogo.svg"
+  width="60px"
+  alt="Debian">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
