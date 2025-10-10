@@ -19,6 +19,8 @@
 <br />
   
 ## Tech Stack
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
 <a margin="10" href="https://docs.oracle.com/en/java/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/java.svg#color=ffffff" alt="Java"></a>
 <a margin="10" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/springboot.svg#color=6DB33F" alt="Spring Boot"></a>
 <a margin="10" href="https://hibernate.org/orm/" target="_blank"><img margin="10px" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/hibernate.svg#color=59666C" alt="Hibernate"></a>
