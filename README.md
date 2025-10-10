@@ -62,6 +62,12 @@
     width="60px"
     alt="IntelliJ">
     &nbsp;&nbsp;&nbsp;&nbsp;
+<img 
+  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+  witdh="60px"
+  alt="Postman">
+&nbsp;&nbsp;&nbsp;&nbsp;
+    
     </br>
     </br>
 
