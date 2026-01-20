@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Welcome to my Github profile <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2> Welcome to my Github profile</h2>
 <br />
 <br />
   I'm a dedicated Backend Developer with a strong grasp of Java and experience in building server-side applications. I’ve worked on projects using Java, Spring Boot, Hibernate, and SQL to create efficient and scalable solutions.
